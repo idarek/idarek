@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 I Professionally Quality Manager.
-Privately father of two, husband, karate-ka 🥋 (ダリウス) and blogger.
+Professionally Quality Manager. Privately father of two, husband, karate-ka 🥋 (ダリユシュ) at [https://akashi.co.uk](akashi.co.uk) and blogger.
 
 My homepage: [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
