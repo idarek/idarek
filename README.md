@@ -3,6 +3,7 @@
 Professionally Quality Manager. Privately father of two, husband, karate-ka 🥋 (ダリユシュ) at [AKASHI](https://www.akashi.co.uk) (2nd dan) and blogger. British and Polish national. 
 
 My sites:
+
 [dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5cfb7e89-99d0-4bce-a8d8-1ac0b5cbd045/deploy-status)](https://app.netlify.com/sites/idarek/deploys)
 
