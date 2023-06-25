@@ -21,7 +21,7 @@ My sites:
 [www.turboklinika.com.pl](https://www.turboklinika.com.pl)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d3010b8-8037-4f23-b721-ad3dbe0cc456/deploy-status)](https://app.netlify.com/sites/turboklinika/deploys)
 
-[www.aqua-tech.net.pl](https://www.aqua-tech.net.pl)
+[aqua-tech.net.pl](https://aqua-tech.net.pl)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/99f84529-1136-4111-a569-e1478b8cf6f8/deploy-status)](https://app.netlify.com/sites/aquatech/deploys)
 
 [yummyrecipes.uk](https://yummyrecipes.uk)
