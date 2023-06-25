@@ -12,13 +12,13 @@ My sites:
 [anna.wieckiewicz.org](https://anna.wieckiewicz.org)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9d954c97-fa3d-457d-9193-d412405d408c/deploy-status)](https://app.netlify.com/sites/annawieckiewicz/deploys)
 
-[www.andrewsfasteners.uk](https://www.andrewsfasteners.uk)
+[andrewsfasteners.uk](https://andrewsfasteners.uk)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6fa3ccc9-a77f-44aa-8e91-c80c53d5c498/deploy-status)](https://app.netlify.com/sites/andrewsfasteners/deploys)
 
-[www.paraplan.com.pl](https://www.paraplan.com.pl)
+[paraplan.com.pl](https://paraplan.com.pl)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/423b8f44-8caf-4068-89f1-dd01956baa50/deploy-status)](https://app.netlify.com/sites/paraplancompl/deploys)
 
-[www.turboklinika.com.pl](https://www.turboklinika.com.pl)
+[turboklinika.com.pl](https://turboklinika.com.pl)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d3010b8-8037-4f23-b721-ad3dbe0cc456/deploy-status)](https://app.netlify.com/sites/turboklinika/deploys)
 
 [aqua-tech.net.pl](https://aqua-tech.net.pl)
