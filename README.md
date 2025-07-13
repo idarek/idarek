@@ -26,3 +26,6 @@ My sites:
 
 [yummyrecipes.uk](https://yummyrecipes.uk)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/22142ff2-2ef9-4c6c-b810-0ed551e5b00e/deploy-status)](https://app.netlify.com/sites/yummyrecipesuk/deploys)
+
+[emiliawardach.com](https://emiliawardach.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1c73029-c4c9-4fdf-a7c5-9fc94baa053a/deploy-status)](https://app.netlify.com/projects/emiliawardach/deploys)
