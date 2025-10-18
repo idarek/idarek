@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Professionally Quality Manager in [the construction company](https://www.andrewsfasteners.uk), Master of Science in Engineering (MSc Eng). Privately father of two, husband, karate-ka 🥋 (ダリユシュ) at [AKASHI](https://www.akashishotokan.co.uk) (2nd dan), [AbilityNet](https://abilitynet.org.uk) Volunteer, self-taught web developer, IT support person and blogger. British and Polish national living in Leeds, West Yorkshire, United Kingdom. 
+Professionally Quality Manager in [the construction company](https://www.andrewsfasteners.uk), Master of Science in Engineering (MSc Eng). Privately father of two, husband, karate-ka 🥋 (ダリユシュ) at [AKASHI](https://www.akashishotokan.co.uk) (3rd dan), [AbilityNet](https://abilitynet.org.uk) Volunteer, self-taught web developer, IT support person and blogger. British and Polish national living in Leeds, West Yorkshire, United Kingdom. 
 
 Read more: [dariusz.wieckiewicz.org/en/about](https://dariusz.wieckiewicz.org/en/about/)
 
