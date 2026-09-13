@@ -7,10 +7,13 @@ Read more: [dariusz.wieckiewicz.org/en/about](https://dariusz.wieckiewicz.org/en
 My Hugo sites deployed on Netlify:
 
 [dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5cfb7e89-99d0-4bce-a8d8-1ac0b5cbd045/deploy-status)](https://app.netlify.com/sites/idarek/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [anna.wieckiewicz.org](https://anna.wieckiewicz.org)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9d954c97-fa3d-457d-9193-d412405d408c/deploy-status)](https://app.netlify.com/sites/annawieckiewicz/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+[wieckiewicz.org](https://wieckiewicz.org)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [andrewsfasteners.uk](https://andrewsfasteners.uk)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6fa3ccc9-a77f-44aa-8e91-c80c53d5c498/deploy-status)](https://app.netlify.com/sites/andrewsfasteners/deploys)
