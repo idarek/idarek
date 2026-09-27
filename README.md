@@ -4,7 +4,7 @@ Professionally Quality Manager in [the construction company](https://www.andrews
 
 Read more: [dariusz.wieckiewicz.org/en/about](https://dariusz.wieckiewicz.org/en/about/)
 
-My Hugo sites deployed on Netlify:
+My Hugo sites:
 
 [dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
