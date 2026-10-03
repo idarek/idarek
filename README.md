@@ -25,7 +25,7 @@ My Hugo sites:
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [aqua-tech.net.pl](https://aqua-tech.net.pl)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/99f84529-1136-4111-a569-e1478b8cf6f8/deploy-status)](https://app.netlify.com/sites/aquatech/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [yummyrecipes.uk](https://yummyrecipes.uk)
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
