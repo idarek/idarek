@@ -31,7 +31,7 @@ My Hugo sites:
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [emiliawardach.com](https://emiliawardach.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b1c73029-c4c9-4fdf-a7c5-9fc94baa053a/deploy-status)](https://app.netlify.com/projects/emiliawardach/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [antybariera.pl](https://antybariera.pl)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dfce4a09-788d-4dc7-ac5a-001782ebdfa5/deploy-status)](https://app.netlify.com/projects/antybariera/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
