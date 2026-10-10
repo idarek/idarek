@@ -19,7 +19,7 @@ My Hugo sites:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6fa3ccc9-a77f-44aa-8e91-c80c53d5c498/deploy-status)](https://app.netlify.com/sites/andrewsfasteners/deploys)
 
 [paraplan.com.pl](https://paraplan.com.pl)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/423b8f44-8caf-4068-89f1-dd01956baa50/deploy-status)](https://app.netlify.com/sites/paraplancompl/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [turboklinika.com.pl](https://turboklinika.com.pl)
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
