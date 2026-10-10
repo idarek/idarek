@@ -16,7 +16,7 @@ My Hugo sites:
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [andrewsfasteners.uk](https://andrewsfasteners.uk)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa3ccc9-a77f-44aa-8e91-c80c53d5c498/deploy-status)](https://app.netlify.com/sites/andrewsfasteners/deploys)
+![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 [paraplan.com.pl](https://paraplan.com.pl)
 ![Cloudflare Worker](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
